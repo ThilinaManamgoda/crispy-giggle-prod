@@ -14,7 +14,7 @@
 
     <scm>
         <url>https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</url>
-        <developerConnection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</developerConnection>
+        <developerConnection>scm:git:https://ThilinaManamgoda@github.com/ThilinaManamgoda/crispy-giggle-prod.git</developerConnection>
         <connection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</connection>
         <tag>HEAD</tag>
     </scm>
