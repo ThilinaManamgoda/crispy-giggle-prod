@@ -4,7 +4,7 @@
 
     <groupId>org.kasung.test</groupId>
     <artifactId>mytest</artifactId>
-    <version>1.0.38-update7</version>
+    <version>1.0.38-update8-SNAPSHOT</version>
     <parent>
         <groupId>org.wso2</groupId>
         <artifactId>wso2</artifactId>
@@ -15,7 +15,7 @@
         <url>https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</url>
         <developerConnection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</developerConnection>
         <connection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</connection>
-        <tag>v1.0.38-update7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
