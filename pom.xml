@@ -4,7 +4,7 @@
 
     <groupId>org.kasung.test</groupId>
     <artifactId>mytest</artifactId>
-    <version>1.0.34-update9-SNAPSHOT</version>
+    <version>1.0.60-update9-SNAPSHOT</version>
     <!--<version>1.0.106-SNAPSHOT</version>-->
 
     <parent>
