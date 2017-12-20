@@ -4,7 +4,7 @@
 
     <groupId>org.kasung.test</groupId>
     <artifactId>mytest</artifactId>
-    <version>1.0.60-update10-SNAPSHOT</version>
+    <version>1.0.60-update10</version>
     <!--<version>1.0.106-SNAPSHOT</version>-->
 
     <parent>
@@ -17,7 +17,7 @@
         <url>https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</url>
         <developerConnection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</developerConnection>
         <connection>scm:git:https://github.com/ThilinaManamgoda/crispy-giggle-prod.git</connection>
-        <tag>HEAD</tag>
+        <tag>v1.0.60-update10</tag>
     </scm>
 
     <build>
