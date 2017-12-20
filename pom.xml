@@ -5,7 +5,7 @@
     <groupId>org.kasung.test</groupId>
     <artifactId>mytest</artifactId>
     <!--<version>1.0.34-update9-SNAPSHOT</version>-->
-    <version>1.0.73-SNAPSHOT</version>
+    <version>1.0.75-SNAPSHOT</version>
     <parent>
         <groupId>org.wso2</groupId>
         <artifactId>wso2</artifactId>
